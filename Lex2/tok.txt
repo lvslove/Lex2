@@ -1,0 +1,4 @@
+keyword 3
+space 2
+id 0
+operator 1
